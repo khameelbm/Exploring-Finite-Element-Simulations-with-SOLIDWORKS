@@ -1,0 +1,16 @@
+[StartTime]
+PlaneStress_Bar-Mesh-Coarse.MFC=1s
+[SolverState]
+PlaneStress_Bar-Mesh-Coarse.MFC=2
+[MainFrame]
+PlaneStress_Bar-Mesh-Coarse.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+PlaneStress_Bar-Mesh-Coarse.MFC=No
+[SolverType]
+PlaneStress_Bar-Mesh-Coarse.MFC=Linear Analysis
+[StudyType]
+PlaneStress_Bar-Mesh-Coarse.MFC=0
+[StudyName]
+PlaneStress_Bar-Mesh-Coarse.MFC=Mesh-Coarse
+[Solver]
+PlaneStress_Bar-Mesh-Coarse.MFC=Sparse

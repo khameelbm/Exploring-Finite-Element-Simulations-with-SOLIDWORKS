@@ -1,0 +1,16 @@
+[StartTime]
+ThreeBars_Beam-Analaysis-Default-Fine.MFC=
+[SolverState]
+ThreeBars_Beam-Analaysis-Default-Fine.MFC=2
+[MainFrame]
+ThreeBars_Beam-Analaysis-Default-Fine.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+ThreeBars_Beam-Analaysis-Default-Fine.MFC=No
+[SolverType]
+ThreeBars_Beam-Analaysis-Default-Fine.MFC=Linear Analysis
+[StudyType]
+ThreeBars_Beam-Analaysis-Default-Fine.MFC=0
+[StudyName]
+ThreeBars_Beam-Analaysis-Default-Fine.MFC=Analaysis-Default-Fine
+[Solver]
+ThreeBars_Beam-Analaysis-Default-Fine.MFC=Iterative
